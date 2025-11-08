@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tipo": "docente",
+    "tarjetaAsignada": "2a8ea11a"
+  },
+  {
+    "id": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tipo": "administrativo",
+    "tarjetaAsignada": "c96253c1"
+  },
+  {
+    "id": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tipo": "administrativo",
+    "tarjetaAsignada": "ba13f181"
+  }
+]

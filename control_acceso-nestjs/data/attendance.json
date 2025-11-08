@@ -1,0 +1,731 @@
+[
+  {
+    "id": 1,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T15:01:28.898Z"
+  },
+  {
+    "id": 2,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T15:01:34.098Z"
+  },
+  {
+    "id": 3,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T15:04:58.248Z"
+  },
+  {
+    "id": 4,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T15:05:03.741Z"
+  },
+  {
+    "id": 5,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T15:11:25.485Z"
+  },
+  {
+    "id": 6,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T15:11:30.324Z"
+  },
+  {
+    "id": 7,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T15:11:45.513Z"
+  },
+  {
+    "id": 8,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T15:11:56.641Z"
+  },
+  {
+    "id": 9,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T15:12:07.160Z"
+  },
+  {
+    "id": 10,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T15:26:17.817Z"
+  },
+  {
+    "id": 11,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T15:26:28.453Z"
+  },
+  {
+    "id": 12,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T15:26:33.649Z"
+  },
+  {
+    "id": 13,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T15:52:14.898Z"
+  },
+  {
+    "id": 14,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T15:52:30.668Z"
+  },
+  {
+    "id": 15,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T16:06:05.633Z"
+  },
+  {
+    "id": 16,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T16:06:42.219Z"
+  },
+  {
+    "id": 17,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T16:37:22.065Z"
+  },
+  {
+    "id": 18,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T16:37:39.813Z"
+  },
+  {
+    "id": 19,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T22:30:33.704Z"
+  },
+  {
+    "id": 20,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T23:30:33.519Z"
+  },
+  {
+    "id": 21,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T23:31:56.253Z"
+  },
+  {
+    "id": 22,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T23:32:13.883Z"
+  },
+  {
+    "id": 23,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T23:32:24.642Z"
+  },
+  {
+    "id": 24,
+    "personaId": 1,
+    "nombre": "Juan Pérez",
+    "cargo": "Profesor Matemáticas",
+    "tarjeta": "2a8ea11a",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T23:34:06.011Z"
+  },
+  {
+    "id": 25,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-28T23:34:09.285Z"
+  },
+  {
+    "id": 26,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-28T23:34:16.971Z"
+  },
+  {
+    "id": 27,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T21:59:12.537Z"
+  },
+  {
+    "id": 28,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:36:31.751Z"
+  },
+  {
+    "id": 29,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:36:37.847Z"
+  },
+  {
+    "id": 30,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:38:23.679Z"
+  },
+  {
+    "id": 31,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:38:38.366Z"
+  },
+  {
+    "id": 32,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:40:45.039Z"
+  },
+  {
+    "id": 33,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:40:51.475Z"
+  },
+  {
+    "id": 34,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:40:57.566Z"
+  },
+  {
+    "id": 35,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:41:04.036Z"
+  },
+  {
+    "id": 36,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:41:09.003Z"
+  },
+  {
+    "id": 37,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:41:17.106Z"
+  },
+  {
+    "id": 38,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:41:25.392Z"
+  },
+  {
+    "id": 39,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:41:32.086Z"
+  },
+  {
+    "id": 40,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:41:41.122Z"
+  },
+  {
+    "id": 41,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:42:00.496Z"
+  },
+  {
+    "id": 42,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:42:03.780Z"
+  },
+  {
+    "id": 43,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:42:08.453Z"
+  },
+  {
+    "id": 44,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:42:13.116Z"
+  },
+  {
+    "id": 45,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:43:04.951Z"
+  },
+  {
+    "id": 46,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:43:20.923Z"
+  },
+  {
+    "id": 47,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:43:33.876Z"
+  },
+  {
+    "id": 48,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:43:41.961Z"
+  },
+  {
+    "id": 49,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:43:53.257Z"
+  },
+  {
+    "id": 50,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:44:01.508Z"
+  },
+  {
+    "id": 51,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:45:41.309Z"
+  },
+  {
+    "id": 52,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:46:36.454Z"
+  },
+  {
+    "id": 53,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:46:49.937Z"
+  },
+  {
+    "id": 54,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:47:54.314Z"
+  },
+  {
+    "id": 55,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:48:08.099Z"
+  },
+  {
+    "id": 56,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:48:15.376Z"
+  },
+  {
+    "id": 57,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:48:27.025Z"
+  },
+  {
+    "id": 58,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:49:03.342Z"
+  },
+  {
+    "id": 59,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:52:12.948Z"
+  },
+  {
+    "id": 60,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:52:48.407Z"
+  },
+  {
+    "id": 61,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:53:04.461Z"
+  },
+  {
+    "id": 62,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:53:17.396Z"
+  },
+  {
+    "id": 63,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:53:33.011Z"
+  },
+  {
+    "id": 64,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:53:38.788Z"
+  },
+  {
+    "id": 65,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:53:44.063Z"
+  },
+  {
+    "id": 66,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:53:49.597Z"
+  },
+  {
+    "id": 67,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:53:55.065Z"
+  },
+  {
+    "id": 68,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-10-29T23:54:02.092Z"
+  },
+  {
+    "id": 69,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-10-29T23:54:37.928Z"
+  },
+  {
+    "id": 70,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-11-06T21:55:19.504Z"
+  },
+  {
+    "id": 71,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "SALIDA",
+    "timestamp": "2025-11-06T21:55:42.369Z"
+  },
+  {
+    "id": 72,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-11-06T21:55:57.968Z"
+  },
+  {
+    "id": 73,
+    "personaId": 2,
+    "nombre": "María García",
+    "cargo": "Secretaria Académica",
+    "tarjeta": "c96253c1",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-11-06T21:56:15.833Z"
+  },
+  {
+    "id": 74,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-11-06T21:56:29.597Z"
+  },
+  {
+    "id": 75,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-11-06T21:56:49.780Z"
+  },
+  {
+    "id": 76,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-11-06T22:18:06.156Z"
+  },
+  {
+    "id": 77,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-11-06T22:18:31.122Z"
+  },
+  {
+    "id": 78,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-11-06T22:18:47.836Z"
+  },
+  {
+    "id": 79,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-11-06T22:19:07.736Z"
+  },
+  {
+    "id": 80,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "SALIDA",
+    "timestamp": "2025-11-06T22:19:18.849Z"
+  },
+  {
+    "id": 81,
+    "personaId": 3,
+    "nombre": "Julieth Perdomo",
+    "cargo": "Monitor de Salas",
+    "tarjeta": "ba13f181",
+    "tipo": "ENTRADA",
+    "timestamp": "2025-11-06T22:19:34.214Z"
+  }
+]
